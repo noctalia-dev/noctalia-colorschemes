@@ -1,0 +1,13 @@
+[colors]
+ansi = ["#8c6075","#ff99b8","#e599b3","#ffb3cc","#e57399","#ff99b8","#ffb8d1","#2c1822"]
+background = "#fff5fa"
+brights = ["#b38099","#ffb8cc","#ffccdd","#ffcce0","#ff8cb3","#ffb3cc","#ffd6e8","#1a1015"]
+cursor_bg = "#2c1822"
+cursor_border = "#2c1822"
+cursor_fg = "#fff5fa"
+foreground = "#2c1822"
+selection_bg = "#f5d6e3"
+selection_fg = "#2c1822"
+
+[metadata]
+name = "RoseyAMOLED (Light)"

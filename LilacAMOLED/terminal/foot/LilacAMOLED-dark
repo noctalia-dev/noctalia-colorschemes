@@ -1,0 +1,10 @@
+[colors]
+foreground=e8d8ff
+background=000000
+regular0=000000   regular1=ff6f9b   regular2=a8e6cf   regular3=d8b4ff
+regular4=b58fff   regular5=c79aff   regular6=e0c1ff   regular7=e8d8ff
+bright0=4c3a70    bright1=ff8cb3    bright2=b8f0d8    bright3=e6d1ff
+bright4=c9a8ff    bright5=d4b8ff    bright6=f0e0ff    bright7=f5f0ff
+selection-foreground=e8d8ff
+selection-background=4c3a70
+cursor=000000 e8d8ff

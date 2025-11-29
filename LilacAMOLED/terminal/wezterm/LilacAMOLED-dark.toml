@@ -1,0 +1,17 @@
+[colors]
+ansi = [
+    "#000000","#ff6f9b","#a8e6cf","#d8b4ff","#b58fff","#c79aff","#e0c1ff","#e8d8ff",
+]
+background = "#000000"
+brights = [
+    "#4c3a70","#ff8cb3","#b8f0d8","#e6d1ff","#c9a8ff","#d4b8ff","#f0e0ff","#f5f0ff",
+]
+cursor_bg = "#e8d8ff"
+cursor_border = "#e8d8ff"
+cursor_fg = "#000000"
+foreground = "#e8d8ff"
+selection_bg = "#4c3a70"
+selection_fg = "#e8d8ff"
+
+[metadata]
+name = "LilacAMOLED (Dark)"
