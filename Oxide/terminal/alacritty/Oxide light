@@ -1,0 +1,33 @@
+# Colors (Oxide Light)
+
+[colors.bright]
+black = '#9B8D7F'
+blue = '#A04D28'
+cyan = '#A07058'
+green = '#6B8050'
+magenta = '#9A6860'
+red = '#AD4433'
+white = '#3A2E25'
+yellow = '#BD8838'
+
+[colors.cursor]
+cursor = '#B85A30'
+text = '#FFFCF8'
+
+[colors.normal]
+black = '#3A2E25'
+blue = '#B85A30'
+cyan = '#A07058'
+green = '#6B8050'
+magenta = '#9A6860'
+red = '#AD4433'
+white = '#6A5D51'
+yellow = '#BD8838'
+
+[colors.primary]
+background = '#F2E8D8'
+foreground = '#3A2E25'
+
+[colors.selection]
+background = '#9B8D7F'
+text = '#FFFCF8'

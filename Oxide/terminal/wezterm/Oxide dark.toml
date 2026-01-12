@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    "#1D1816",
+    "#C25D4E",
+    "#8B9A5A",
+    "#D8A657",
+    "#B85A30",
+    "#CC8977",
+    "#C4856A",
+    "#B8ACA2",
+]
+background = "#231D1B"
+brights = [
+    "#463B38",
+    "#D47761",
+    "#8B9A5A",
+    "#DBB98F",
+    "#C86D45",
+    "#CC8977",
+    "#C4856A",
+    "#E6DBD3",
+]
+cursor_bg = "#B85A30"
+cursor_border = "#B85A30"
+cursor_fg = "#1D1816"
+foreground = "#E6DBD3"
+selection_bg = "#B8ACA2"
+selection_fg = "#1D1816"
+
+[colors.indexed]
+
+[metadata]
+name = "Oxide"
