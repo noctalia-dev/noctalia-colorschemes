@@ -940,6 +940,46 @@
         "mHover": "#4c663b",
         "mOnHover": "#f0f2f7"
       }
+    },
+    {
+      "name": "Vesper",
+      "path": "Vesper",
+      "dark": {
+        "mPrimary": "#FFC799",
+        "mOnPrimary": "#000000",
+        "mSecondary": "#99FFE4",
+        "mOnSecondary": "#000000",
+        "mTertiary": "#FBADFF",
+        "mOnTertiary": "#000000",
+        "mError": "#FF8080",
+        "mOnError": "#000000",
+        "mSurface": "#0C0C0C",
+        "mOnSurface": "#FFFFFF",
+        "mSurfaceVariant": "#1C1C1C",
+        "mOnSurfaceVariant": "#A0A0A0",
+        "mOutline": "#505050",
+        "mShadow": "#000000",
+        "mHover": "#282828",
+        "mOnHover": "#FFFFFF"
+      },
+      "light": {
+        "mPrimary": "#FFB170",
+        "mOnPrimary": "#0C0C0C",
+        "mSecondary": "#00CC99",
+        "mOnSecondary": "#0C0C0C",
+        "mTertiary": "#FBADFF",
+        "mOnTertiary": "#0C0C0C",
+        "mError": "#FF8080",
+        "mOnError": "#0C0C0C",
+        "mSurface": "#F2F2F2",
+        "mOnSurface": "#0C0C0C",
+        "mSurfaceVariant": "#E5E5E5",
+        "mOnSurfaceVariant": "#282828",
+        "mOutline": "#505050",
+        "mShadow": "#D9D9D9",
+        "mHover": "#E0E0E0",
+        "mOnHover": "#0C0C0C"
+      }
     }
   ]
 }
